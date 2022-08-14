@@ -4,7 +4,7 @@ BlockMumuIps
 open Host file located in C:\Windows\System32\drivers\etc
 Then copy and paste the following ips
 
-127.0.0.1 42.186.110.59
+127.0.0.1 42.186.110.59 
 127.0.0.1 18.180.16.122
 127.0.0.1 104.193.88.77
 127.0.0.1 59.111.181.166 
